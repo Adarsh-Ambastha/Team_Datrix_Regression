@@ -35,7 +35,7 @@ To run the program, you first need to install all the required Python libraries.
 
 The dataset required for the prediction models is not included in this repository. You need to download the dataset from the main model file, which is stored on Google Drive. 
 
-1. Download the dataset from this [Google Drive link](https://drive.google.com/uc?id={1zF3fYQbAUDE0Jx3lvBHC8GjaK8i9wrno}).
+1. Download the dataset from this [Google Drive link](https://drive.google.com/uc?id=1zF3fYQbAUDE0Jx3lvBHC8GjaK8i9wrno)
 2. Save the CSV file on your local device in an accessible location.
 
 ### 3. Modify the File Paths
