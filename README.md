@@ -13,4 +13,4 @@ Documentation Summary
 - AMAN RAJPUT :     202418003
 - YASHRAJ SINH :    202418064
 
-Note: all the graph used for visualization are plotted using plotly, due to dynamic nature of graph of plotted using plotlly it is not reflecting on the git , but works properly on local machine or colab 
+Note: all the graph used for visualization are plotted using plotly Library, due to dynamic nature of plottly  it is not reflecting on the git , but works properly on local machine or colab 
