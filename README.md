@@ -4,7 +4,7 @@
 
 We are building a machine learning model for **Used Car Price Prediction** specifically for **Maruti Cars in India**. The model is designed to predict the price of used Maruti cars based on 11 key features, such as year, kilometers driven, fuel type, transmission, and more. The dataset was scraped using **Selenium** and **BeautifulSoup** from the **Cars24** website, consisting of around **1,400 rows**.
 
-The project involves multiple regression models, including **Linear Regression**, **Ridge Regression**, **Lasso Regression**, **ElasticNet**, and **Polynomial Regression**. The models are evaluated using metrics like **Mean Squared Error (MSE)**, **Root Mean Squared Error (RMSE)**, **Mean Absolute Error (MAE)**, and **R² Score** to ensure that the best-performing model is chosen.
+The project involves multiple regression models, including **Linear Regression**, **Ridge Regression** and **Lasso Regression**, .The models are evaluated using metrics like **Mean Squared Error (MSE)**, **Root Mean Squared Error (RMSE)**, **Mean Absolute Error (MAE)**, and **R² Score** to ensure that the best-performing model is chosen.
 
 ## Aim
 
