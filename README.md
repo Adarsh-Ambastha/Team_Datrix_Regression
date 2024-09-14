@@ -102,7 +102,7 @@ By following the steps above, you can easily run the model on your local machine
 
 
 ## Team DATRIX Assignment 1 FOML
-- **TEAM MEMBERS**
+#### **TEAM MEMBERS**
 - **PRAGNYA DANDVATE: 202418065 (L)**
 - **ADARSH AMBASTH :  202418004**
 - **AMAN RAJPUT :     202418003**
