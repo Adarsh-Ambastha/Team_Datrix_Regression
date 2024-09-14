@@ -20,26 +20,6 @@ Our aim is to accurately predict the prices of used Maruti cars using a variety 
 - Models are systematically evaluated on training, validation, and test datasets to assess performance and generalization capabilities
 - The evaluation process helps in monitoring overfitting, underfitting, and predicting real-world performance
 
-## Results on test set
-
-#### Ridge Regression Performance on Test Set:
-
--  Root Mean Squared Error: 54643.29
--  Mean Absolute Error: 43557.65
--  R² Score: 0.88
-
-#### Lasso Regression Performance on Test Set:
-
-- Root Mean Squared Error: 54759.61
-- Mean Absolute Error: 43634.84
-- R² Score: 0.88
-
-#### Linear Regression Performance on Test Set:
-
-- Root Mean Squared Error: 54488.55
-- Mean Absolute Error: 43244.49
-- R² Score: 0.88
-
 ## Running the Program on Your Local Device
 
 ### 1. Install the Required Libraries
@@ -98,7 +78,28 @@ The model will start training and evaluating, and the results will be displayed 
 
 ## Conclusion
 
-By following the steps above, you can easily run the model on your local machine and evaluate its performance using different regression techniques. Feel free to explore the hyperparameter grids, metrics, and datasets to further tune the model for better predictions.
+By following the steps above, you can easily run the model on your local machine and evaluate its performance using different regression techniques. 
+
+## Results on test set
+
+#### Ridge Regression Performance on Test Set:
+
+-  Root Mean Squared Error: 54643.29
+-  Mean Absolute Error: 43557.65
+-  R² Score: 0.88
+
+#### Lasso Regression Performance on Test Set:
+
+- Root Mean Squared Error: 54759.61
+- Mean Absolute Error: 43634.84
+- R² Score: 0.88
+
+#### Linear Regression Performance on Test Set:
+
+- Root Mean Squared Error: 54488.55
+- Mean Absolute Error: 43244.49
+- R² Score: 0.88
+
 
 
 ## Team DATRIX Assignment 1 FOML
