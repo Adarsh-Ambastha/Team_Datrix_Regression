@@ -1,4 +1,4 @@
-###Documentation Summary 
+### Documentation Summary 
 
 - Three machine learning pipelines are defined: Ridge Regression, Lasso Regression, and Linear Regression, each with specific data scaling steps
 - Hyperparameter grids are set up for Ridge and Lasso Regression to optimize model performance
