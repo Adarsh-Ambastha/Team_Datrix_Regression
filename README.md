@@ -7,9 +7,10 @@ Documentation Summary
 - Models are systematically evaluated on training, validation, and test datasets to assess performance and generalization capabilities
 - The evaluation process helps in monitoring overfitting, underfitting, and predicting real-world performance
 
-TEAM MEMBERS
-PRAGNYA DANDVATE: 202418065 (L)
-ADARSH AMBASTH :  202418004
-AMAN RAJPUT :     202418003
-YASHRAJ SINH :    202418064
+- TEAM MEMBERS
+- PRAGNYA DANDVATE: 202418065 (L)
+- ADARSH AMBASTH :  202418004
+- AMAN RAJPUT :     202418003
+- YASHRAJ SINH :    202418064
 
+Note: all the graph used for visualization are plotted using plotly, due to dynamic nature of graph of plotted using plotlly it is not reflecting on the git , but works properly on local machine or colab 
