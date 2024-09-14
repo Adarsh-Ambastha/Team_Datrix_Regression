@@ -7,6 +7,26 @@
 - Models are systematically evaluated on training, validation, and test datasets to assess performance and generalization capabilities
 - The evaluation process helps in monitoring overfitting, underfitting, and predicting real-world performance
 
+### Results on test set
+
+## Ridge Regression Performance on Test Set:
+Test Mean Squared Error: 2985888685.42
+Test Root Mean Squared Error: 54643.29
+Test Mean Absolute Error: 43557.65
+Test R² Score: 0.88
+
+## Lasso Regression Performance on Test Set:
+Test Mean Squared Error: 2998615429.84
+Test Root Mean Squared Error: 54759.61
+Test Mean Absolute Error: 43634.84
+Test R² Score: 0.88
+
+## Linear Regression Performance on Test Set:
+Test Mean Squared Error: 2969002094.54
+Test Root Mean Squared Error: 54488.55
+Test Mean Absolute Error: 43244.49
+Test R² Score: 0.88
+
 ## Running the Program on Your Local Device
 
 ### 1. Install the Required Libraries
