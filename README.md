@@ -16,13 +16,13 @@ To run the program, you first need to install all the required Python libraries.
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone "https://github.com/Adarsh-Ambastha/Team_Datrix_Regression"
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd <project_directory>
+   cd prediction/ml_env
    ```
 
 3. Install the required libraries by running:
@@ -35,7 +35,7 @@ To run the program, you first need to install all the required Python libraries.
 
 The dataset required for the prediction models is not included in this repository. You need to download the dataset from the main model file, which is stored on Google Drive. 
 
-1. Download the dataset from this [Google Drive link](<google_drive_link>).
+1. Download the dataset from this [Google Drive link](https://drive.google.com/uc?id={1zF3fYQbAUDE0Jx3lvBHC8GjaK8i9wrno}).
 2. Save the CSV file on your local device in an accessible location.
 
 ### 3. Modify the File Paths
@@ -68,7 +68,7 @@ The model will start training and evaluating, and the results will be displayed 
 By following the steps above, you can easily run the model on your local machine and evaluate its performance using different regression techniques. Feel free to explore the hyperparameter grids, metrics, and datasets to further tune the model for better predictions.
 
 
-
+## Team DATRIX Assignment 1 FOML
 - TEAM MEMBERS
 - PRAGNYA DANDVATE: 202418065 (L)
 - ADARSH AMBASTH :  202418004
