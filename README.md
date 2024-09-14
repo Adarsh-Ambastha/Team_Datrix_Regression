@@ -1,4 +1,17 @@
-## Documentation Summary 
+# README
+
+## Project Overview
+
+We are building a machine learning model for **Used Car Price Prediction** specifically for **Maruti Cars in India**. The model is designed to predict the price of used Maruti cars based on 11 key features, such as year, kilometers driven, fuel type, transmission, and more. The dataset was scraped using **Selenium** and **BeautifulSoup** from the **Cars24** website, consisting of around **1,400 rows**.
+
+The project involves multiple regression models, including **Linear Regression**, **Ridge Regression**, **Lasso Regression**, **ElasticNet**, and **Polynomial Regression**. The models are evaluated using metrics like **Mean Squared Error (MSE)**, **Root Mean Squared Error (RMSE)**, **Mean Absolute Error (MAE)**, and **R² Score** to ensure that the best-performing model is chosen.
+
+## Aim
+
+Our aim is to accurately predict the prices of used Maruti cars using a variety of machine learning algorithms. By tuning different models and evaluating their performance on the dataset, we hope to find the best predictive model.
+
+
+## Modelling Summary 
 
 - Three machine learning pipelines are defined: Ridge Regression, Lasso Regression, and Linear Regression, each with specific data scaling steps
 - Hyperparameter grids are set up for Ridge and Lasso Regression to optimize model performance
@@ -11,15 +24,21 @@
 
 #### Ridge Regression Performance on Test Set:
 
-R² Score: 0.88
+Test Root Mean Squared Error: 54643.29
+Test Mean Absolute Error: 43557.65
+Test R² Score: 0.88
 
 #### Lasso Regression Performance on Test Set:
 
-R² Score: 0.88
+Test Root Mean Squared Error: 54759.61
+Test Mean Absolute Error: 43634.84
+Test R² Score: 0.88
 
 #### Linear Regression Performance on Test Set:
 
-R² Score: 0.88
+Root Mean Squared Error: 54488.55
+Test Mean Absolute Error: 43244.49
+Test R² Score: 0.88
 
 ## Running the Program on Your Local Device
 
@@ -83,10 +102,10 @@ By following the steps above, you can easily run the model on your local machine
 
 
 ## Team DATRIX Assignment 1 FOML
-- TEAM MEMBERS
-- PRAGNYA DANDVATE: 202418065 (L)
-- ADARSH AMBASTH :  202418004
-- AMAN RAJPUT :     202418003
-- YASHRAJ SINH :    202418064
+- **TEAM MEMBERS**
+- **PRAGNYA DANDVATE: 202418065 (L)**
+- **ADARSH AMBASTH :  202418004**
+- **AMAN RAJPUT :     202418003**
+- **YASHRAJ SINH :    202418064**
 
-Note: all the graph used for visualization are plotted using plotly Library, due to dynamic nature of plottly  it is not reflecting on the git , but works properly on local machine or colab 
+**Note: all the graph used for visualization are plotted using plotly Library, due to dynamic nature of plottly  it is not reflecting on the git , but works properly on local machine or colab**
